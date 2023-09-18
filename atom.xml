@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Lyhappig.github.io</id>
-    <title>Happig&#39;s Blog</title>
-    <subtitle>欢迎来自异乡的旅行者</subtitle>
+    <title></title>
+    <subtitle>真正的大师永远都怀着一颗学徒的心</subtitle>
     <icon>https://lyhappig.github.io/images/favicon.ico</icon>
     <link href="https://Lyhappig.github.io" />
     <author>
-      <name>Lyhappig</name>
+      <name>pitt1997</name>
     </author>
     <updated>2023-09-17T03:21:28.891Z</updated>
     <entry>

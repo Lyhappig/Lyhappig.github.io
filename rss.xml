@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Happig&#39;s Blog</title>
-        <subtitle>欢迎来自异乡的旅行者</subtitle>
+        <title></title>
+        <subtitle>真正的大师永远都怀着一颗学徒的心</subtitle>
         <icon>https://lyhappig.github.io/images/favicon.ico</icon>
         <link>https://Lyhappig.github.io</link>
         <author>
-          <name>Lyhappig</name>
+          <name>pitt1997</name>
         </author>
-        <description>我的孤独，虽败犹荣</description>
+        <description>欢迎来到 pitt1997 的个人博客!</description>
         <language>zh-CN</language>
         <pubDate>Sun, 17 Sep 2023 11:21:28 +0800</pubDate>
         <lastBuildDate>Sun, 17 Sep 2023 11:21:28 +0800</lastBuildDate>
