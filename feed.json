@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": null,
-    "subtitle": "真正的大师永远都怀着一颗学徒的心",
+    "title": "Happig's Blog",
+    "subtitle": "欢迎来自异乡的旅行者",
     "icon": "https://lyhappig.github.io/images/favicon.ico",
-    "description": "欢迎来到 pitt1997 的个人博客!",
+    "description": "我的孤独，虽败犹荣",
     "home_page_url": "https://Lyhappig.github.io",
     "items": [
         {
